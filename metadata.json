@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Thumbnail Downloader",
+  "description": "A web application to easily find and download high-definition thumbnails from YouTube videos. Paste a YouTube video link to get started.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
